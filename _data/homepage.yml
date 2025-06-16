@@ -1,0 +1,12 @@
+projects:
+  - image_path: /assets/images/sec-analyzer.png
+    alt: "SEC Analyzer"
+    title: "SEC Filings Analyzer"
+    excerpt: "Analyzes 8-K earnings releases using NLP + stock performance"
+    url: "/projects/sec-filings-analyzer"
+
+  - image_path: /assets/images/econrevelio.png
+    alt: "EconRevelio Tool"
+    title: "EconRevelio"
+    excerpt: "A Harry Potter-themed platform for exploring economic data"
+    url: "/projects/econrevelio"
