@@ -1118,16 +1118,6 @@ section,
     margin-bottom: 40px;
   }
 }
-.move-image-up {
-  margin-top: -30px;
-}
-
-@media (max-width: 991.98px) {
-  /* Don't move it up on small screens */
-  .move-image-up {
-    margin-top: 0;
-  }
-}
 
 /*--------------------------------------------------------------
 # Skills Section
